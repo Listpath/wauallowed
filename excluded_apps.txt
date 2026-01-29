@@ -1,1 +1,2 @@
 Microsoft.VCRedist.2015+.x64
+Microsoft.Office
