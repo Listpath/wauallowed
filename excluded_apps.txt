@@ -1,3 +1,4 @@
 Microsoft.Office
 7zip.7zip
-Romanitho.Winget-AutoUpdate 
+Romanitho.Winget-AutoUpdate
+DominikReichl.KeePass
