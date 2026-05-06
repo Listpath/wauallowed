@@ -1,4 +1,2 @@
 7zip.7zip
 Microsoft.Edge
-7-Zip 25.01 (x64 edition)
-7zip.7zip
